@@ -1,0 +1,5 @@
+extrair_texto=nao
+gerar_sumario=nao
+detectar_ciclos=nao
+nivel_detalhe=completo
+validar_xref=nao
